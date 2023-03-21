@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there, I am Mohamed Rojas 👋
 
-<!--
-**mohamedrojas/mohamedrojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### i am a student of enginer of system
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My knowledge basic: 
+* HTML
+* CSS
+* Javascript
+
+
+
+|comandos|descripcion|
+---------|-------------
+|cd|nos permite navegar entre carpetas|
+|ls      |lista de archivos de la carpeta actual|
+|  cat   | imprime el contenido de un archivo dada su ruta|
