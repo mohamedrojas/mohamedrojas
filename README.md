@@ -3,7 +3,7 @@
 
 ### i am a student of enginer of system
 
-### My knowledge basic: 
+### My  basic knowledge: 
 * HTML
 * CSS
 * Javascript
